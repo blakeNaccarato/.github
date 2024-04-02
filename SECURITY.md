@@ -1,5 +1,3 @@
 # Security Policy
 
-Only the current major version supports security updates. I will yank all vulnerable versions prior to the current major version.
-
-Report vulnerabilities to me, Blake Naccarato, at blake.naccarato@gmail.com. I will follow whatever vulnerability disclosure policy that you suggest.
+Please select "Report a vulnerability" above to report security vulnerabilities. If the vulnerability is confirmed, a security advisory may be released and the vulnerability may be addressed in the next release.
